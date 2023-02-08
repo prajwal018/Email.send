@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Prajwal\\Downloads\\javax.mail.jar"
+        ],
+        "exclude": [
+            "lib/JSON-java/gradle/wrapper/gradle-wrapper.jar"
+        ]
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
